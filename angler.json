@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1583681769",
-      "filename": "lineage-17.1-20200308-UNOFFICIAL-angler.zip",
-      "id": "3a977558cc8dec8685d7ecc647816a68",
+      "datetime": "1586676356",
+      "filename": "lineage-17.1-20200412-UNOFFICIAL-angler.zip",
+      "id": "ed8972e1308ce1b00e4c37e9a3c3cb79",
       "romtype": "UNOFFICIAL",
-      "size": "656209205",
-      "url": "https://gb1.androidfilehost.com/dl/iH7jSuY0DS6EAd_KWVCT3w/1585791736/4349826312261740585/lineage-17.1-20200308-UNOFFICIAL-angler.zip",
+      "size": "661614207",
+      "url": "https://master.dl.sourceforge.net/project/pixelbuilds/angler/lineage-17.1-20200412-UNOFFICIAL-angler.zip",
       "version": "17.1"
     }
   ]
